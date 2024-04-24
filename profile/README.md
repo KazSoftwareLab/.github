@@ -1,4 +1,6 @@
-## Hi there 👋
+## KazSoftwareLab Github Repository 👋
+
+Owner: Kazunori Suzuki (鈴木一範)
 
 <!--
 
